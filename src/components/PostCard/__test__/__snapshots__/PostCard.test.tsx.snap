@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostCard component should render correctly 1`] = `
+<div>
+  <div
+    class="post-card"
+  >
+    <img
+      alt="The Impact of Technology on the Workplace: How Technology is Changing"
+      class="post-card__img"
+      src="https://images.unsplash.com/photo-1543877087-ebf71fde2be1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bmF0dXJhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    />
+    <div
+      class="post-card__content"
+    >
+      <span
+        class="badge"
+        style="background-color: rgba(75, 107, 251, 0.05); color: rgb(75, 107, 251);"
+      >
+        Technology
+      </span>
+      <p
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        The Impact of Technology on the Workplace: How Technology is Changing
+      </p>
+      <div
+        class="post-card__footer"
+      >
+        <img
+          alt="Tracey Wilson"
+          class="post-card__author-avatar"
+          src="https://www.w3schools.com/w3images/avatar2.png"
+        />
+        <p
+          class=""
+          style="font-family: work-sans; font-size: 18px; font-weight: 400; line-height: 26px; color: rgb(59, 60, 74);"
+        >
+          Tracey Wilson
+        </p>
+        <p
+          class=""
+          style="font-family: work-sans; font-size: 18px; font-weight: 400; line-height: 26px; color: rgb(59, 60, 74);"
+        >
+          August 20, 2022
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

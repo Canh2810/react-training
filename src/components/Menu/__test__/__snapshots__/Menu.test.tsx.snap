@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu component should render correctly with variant is horizontal 1`] = `
+<div>
+  <ul
+    class="menu "
+    style="display: flex; align-items: center; justify-content: center; gap: 30px;"
+  >
+    <li
+      class="menu__item menu__item--horizontal menu__item--horizontal--light"
+    >
+      <a
+        href="/"
+      >
+        Home
+      </a>
+    </li>
+    <li
+      class="menu__item menu__item--horizontal menu__item--horizontal--light"
+    >
+      <a
+        href="/about"
+      >
+        About
+      </a>
+    </li>
+    <li
+      class="menu__item menu__item--horizontal menu__item--horizontal--light"
+    >
+      <a
+        href="/contact"
+      >
+        Contact
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Menu component should render correctly with variant is vertical 1`] = `
+<div>
+  <ul
+    class="menu "
+    style="display: flex; align-items: center; justify-content: center; gap: 8px; flex-direction: column;"
+  >
+    <li
+      class="menu__item menu__item--vertical menu__item--vertical--light"
+    >
+      <a
+        href="/"
+      >
+        Home
+      </a>
+    </li>
+    <li
+      class="menu__item menu__item--vertical menu__item--vertical--light"
+    >
+      <a
+        href="/about"
+      >
+        About
+      </a>
+    </li>
+    <li
+      class="menu__item menu__item--vertical menu__item--vertical--light"
+    >
+      <a
+        href="/contact"
+      >
+        Contact
+      </a>
+    </li>
+  </ul>
+</div>
+`;

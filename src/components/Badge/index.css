@@ -1,0 +1,7 @@
+.badge {
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: var(--xs-font);
+  font-weight: var(--semi-bold);
+  line-height: var(--xs-line-height);
+}

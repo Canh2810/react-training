@@ -1,0 +1,49 @@
+:root {
+  /* colors */
+  --primary-color: #4b6bfb;
+  --background-primary-color: #fff;
+  --background-secondary-color: #f6f6f7;
+  --background-tertiary-color: #e8e8ea;
+  --text-primary-color: #3b3c4a;
+  --text-secondary-color: #181a2a;
+  --text-tertiary-color: #696a75;
+  --border-color: #e8e8ea;
+  --danger-color: #dc3545;
+
+  /* font families*/
+  --primary-font: 'work-sans', sans-serif;
+  --secondary-font: 'source-serif-pro', sans-serif;
+  --tertiary-font: 'plus-jakarta-sans', sans-serif;
+  --quaternary-font: 'inter', sans-serif;
+
+  /* font sizes*/
+  --xs-font: 14px;
+  --sm-font: 16px;
+  --md-font: 18px;
+  --lg-font: 20px;
+  --xl-font: 24px;
+  --xxl-font: 36px;
+
+  /* font weights */
+  --normal: 400;
+  --semi-bold: 500;
+  --bold: 600;
+
+  /* line heights */
+  --xs-line-height: 20px;
+  --sm-line-height: 24px;
+  --md-line-height: 26px;
+  --lg-line-height: 28px;
+  --xl-line-height: 32px;
+  --xxl-line-height: 40px;
+}
+
+[data-theme='dark'] {
+  --background-primary-color: #181a2a;
+  --background-secondary-color: #141624;
+  --background-tertiary-color: #696a75;
+  --text-primary-color: #bababf;
+  --text-secondary-color: #fff;
+  --text-tertiary-color: #97989f;
+  --border-color: #242535;
+}

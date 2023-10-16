@@ -1,0 +1,20 @@
+.menu__item a {
+  text-decoration: none;
+  font-size: var(--sm-font);
+  font-weight: var(--normal);
+  color: var(--text-primary-color);
+  font-size: var(--tertiary-font);
+  line-height: 24px;
+}
+
+.menu__item:hover {
+  opacity: 0.7;
+}
+
+.menu__item--horizontal {
+  font-size: var(--primary-font);
+}
+
+.menu__item--horizontal--dark {
+  color: var(--text-secondary-color);
+}

@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SinglePost page should render correctly 1`] = `
+<div>
+  <article
+    class="single-post"
+  >
+    <span
+      class="badge"
+      style="background-color: rgb(75, 107, 251); color: rgb(255, 255, 255);"
+    />
+    <h1
+      class=""
+      style="font-family: work-sans; font-size: 36px; font-weight: 600; line-height: 40px; color: rgb(59, 60, 74);"
+    />
+    <div
+      class="single-post__short-info"
+    >
+      <div
+        class="single-post__short-info-author"
+      >
+        <img
+          class="single-post__short-info-avatar"
+        />
+        <p
+          class=""
+          style="font-family: inter; font-size: 14px; font-weight: 400; line-height: 20px; color: rgb(59, 60, 74);"
+        />
+      </div>
+      <p
+        class=""
+        style="font-family: inter; font-size: 14px; font-weight: 400; line-height: 20px; color: rgb(59, 60, 74);"
+      />
+    </div>
+    <img
+      class="single-post__img"
+    />
+    <article>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels. One of the most rewarding aspects of traveling is immersing yourself in the local culture and customs. This includes trying local cuisine, attending cultural events and festivals, and interacting with locals. Learning a few phrases in the local language can also go a long way in making connections and showing respect.
+      </p>
+    </article>
+    <article>
+      <h2
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        Research Your Destination
+      </h2>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        Before embarking on your journey, take the time to research your destination. This includes understanding the local culture, customs, and laws, as well as identifying top attractions, restaurants, and accommodations. Doing so will help you navigate your destination with confidence and avoid any cultural faux pas. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In hendrerit gravida rutrum quisque non tellus orci ac auctor. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Viverra adipiscing at in tellus.
+      </p>
+    </article>
+    <article>
+      <h2
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        Plan Your Itinerary
+      </h2>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        While it's essential to leave room for spontaneity and unexpected adventures, having a rough itinerary can help you make the most of your time and budget. Identify the must-see sights and experiences and prioritize them according to your interests and preferences. This will help you avoid overscheduling and ensure that you have time to relax and enjoy your journey. Vitae sapien pellentesque habitant morbi tristique. Luctus venenatis lectus magna fringilla. Nec ullamcorper sit amet risus nullam eget felis. Tincidunt arcu non sodales neque sodales ut etiam sit amet.
+      </p>
+      <div
+        class="single-post__quote"
+      >
+        <p
+          class="single-post__quote-content"
+          style="font-family: source-serif-pro; font-size: 24px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+        >
+          “ Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy. ”
+        </p>
+      </div>
+      <img
+        alt="Plan Your Itinerary"
+        class="single-post__img"
+        src="https://plus.unsplash.com/premium_photo-1666963323736-5ee1c16ef19d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG5hdHVyYWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60"
+      />
+    </article>
+    <div
+      class="advertisement"
+    >
+      <p
+        class=""
+        style="font-family: inter; font-size: 14px; font-weight: 400; line-height: 20px; color: rgb(59, 60, 74);"
+      >
+        Advertisement
+      </p>
+      <p
+        class=""
+        style="font-family: work-sans; font-size: 20px; font-weight: 600; line-height: 28px; color: rgb(105, 106, 117);"
+      >
+        You can place ads
+      </p>
+      <p
+        class=""
+        style="font-family: work-sans; font-size: 18px; font-weight: 400; line-height: 26px; color: rgb(59, 60, 74);"
+      >
+        750x100
+      </p>
+    </div>
+    <article>
+      <h2
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        Pack Lightly and Smartly
+      </h2>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        Packing can be a daunting task, but with some careful planning and smart choices, you can pack light and efficiently. Start by making a packing list and sticking to it, focusing on versatile and comfortable clothing that can be mixed and matched. Invest in quality luggage and packing organizers to maximize space and minimize wrinkles.
+      </p>
+    </article>
+    <article>
+      <h2
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        Stay Safe and Healthy
+      </h2>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy. This includes researching any required vaccinations or medications, staying hydrated, washing your hands frequently, and using sunscreen and insect repellent. It's also essential to keep your valuables safe and secure and to be aware of your surroundings at all times.
+      </p>
+    </article>
+    <article>
+      <h2
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        Immerse Yourself in the Local Culture
+      </h2>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        One of the most rewarding aspects of traveling is immersing yourself in the local culture and customs. This includes trying local cuisine, attending cultural events and festivals, and interacting with locals. Learning a few phrases in the local language can also go a long way in making connections and showing respect.
+      </p>
+    </article>
+    <article>
+      <h2
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        Capture Memories
+      </h2>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        Finally, don't forget to capture memories of your journey. Whether it's through photographs, journaling, or souvenirs, preserving the moments and experiences of your travels can bring joy and nostalgia for years to come. However, it's also essential to be present in the moment and not let technology distract you from the beauty of your surroundings.
+      </p>
+    </article>
+    <article>
+      <h2
+        class=""
+        style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+      >
+        Conclusion:
+      </h2>
+      <p
+        class=""
+        style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+      >
+        Traveling is an art form that requires a blend of planning, preparation, and spontaneity. By following these tips and tricks, you can make the most of your journey and create memories that last a lifetime. So pack your bags, embrace the adventure, and enjoy the ride.
+      </p>
+    </article>
+  </article>
+</div>
+`;

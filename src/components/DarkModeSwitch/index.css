@@ -1,0 +1,33 @@
+.dark-mode-switch input {
+  display: none;
+}
+
+.dark-mode-switch__slider {
+  background-color: var(--background-tertiary-color);
+  padding: 2px;
+  cursor: pointer;
+  border-radius: 100px;
+  height: 24px;
+  width: 44px;
+}
+
+.dark-mode-switch__icon {
+  background-color: var(--background-primary-color);
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  padding: 5px;
+  border-radius: 50%;
+  transition: 0.4s;
+}
+
+.dark-mode-switch
+  input:checked
+  + .dark-mode-switch__slider
+  .dark-mode-switch__icon {
+  transform: translateX(20px);
+}
+
+.dark-mode-switch input:checked + .dark-mode-switch__slider {
+  background-color: var(--primary-color);
+}

@@ -1,0 +1,41 @@
+.banner {
+  position: relative;
+  margin: 24px 0 114px 0;
+}
+
+.banner__img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.banner__card {
+  position: absolute;
+  left: 64px;
+  bottom: -68px;
+  background-color: var(--background-primary-color);
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  padding: 40px;
+  width: 589px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 16px;
+  box-shadow: 0px 12px 24px -6px rgba(24, 26, 42, 0.12);
+}
+
+.banner__card-footer {
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 8px;
+}
+
+.banner__author-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  margin-right: -8px;
+}

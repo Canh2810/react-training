@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Advertisement component should render correctly 1`] = `
+<div>
+  <div
+    class="advertisement"
+  >
+    <p
+      class=""
+      style="font-family: inter; font-size: 14px; font-weight: 400; line-height: 20px; color: rgb(59, 60, 74);"
+    >
+      Advertisement
+    </p>
+    <p
+      class=""
+      style="font-family: work-sans; font-size: 20px; font-weight: 600; line-height: 28px; color: rgb(105, 106, 117);"
+    >
+      You can place ads
+    </p>
+    <p
+      class=""
+      style="font-family: work-sans; font-size: 18px; font-weight: 400; line-height: 26px; color: rgb(59, 60, 74);"
+    >
+      750x100
+    </p>
+  </div>
+</div>
+`;

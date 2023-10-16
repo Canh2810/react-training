@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostList component render with color is textSecondary 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: plus-jakarta-sans; font-size: 16px; font-weight: 500; line-height: 24px; color: rgb(24, 26, 42);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with color is textTertiary 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: plus-jakarta-sans; font-size: 16px; font-weight: 500; line-height: 24px; color: rgb(105, 106, 117);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with component is h1 1`] = `
+<div>
+  <h1
+    class=""
+    style="font-family: plus-jakarta-sans; font-size: 16px; font-weight: 500; line-height: 24px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </h1>
+</div>
+`;
+
+exports[`PostList component render with default props 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: plus-jakarta-sans; font-size: 16px; font-weight: 500; line-height: 24px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is headingExtraLarge 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: work-sans; font-size: 36px; font-weight: 600; line-height: 40px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is headingLarge 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: work-sans; font-size: 24px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is headingMedium 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: work-sans; font-size: 20px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is headingSmall 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: plus-jakarta-sans; font-size: 18px; font-weight: 600; line-height: 28px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is textExtraLarge 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: source-serif-pro; font-size: 24px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is textExtraSmall 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: inter; font-size: 14px; font-weight: 400; line-height: 20px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is textLarge 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: source-serif-pro; font-size: 20px; font-weight: 400; line-height: 32px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;
+
+exports[`PostList component render with variant is textMedium 1`] = `
+<div>
+  <p
+    class=""
+    style="font-family: work-sans; font-size: 18px; font-weight: 400; line-height: 26px; color: rgb(59, 60, 74);"
+  >
+    This is text
+  </p>
+</div>
+`;

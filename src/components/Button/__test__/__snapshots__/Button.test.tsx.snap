@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component should render with container variant 1`] = `
+<div>
+  <button
+    class="btn "
+    style="background-color: rgb(75, 107, 251); color: rgb(255, 255, 255);"
+  >
+    Button
+  </button>
+</div>
+`;
+
+exports[`Button component should render with outlined variant 1`] = `
+<div>
+  <button
+    class="btn "
+    style="border: 1px solid; color: rgb(105, 106, 117); border-color: rgba(105, 106, 117, 0.30); background-color: rgb(255, 255, 255);"
+  >
+    Button
+  </button>
+</div>
+`;
